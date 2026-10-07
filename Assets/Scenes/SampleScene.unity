@@ -435,7 +435,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 83cc3c26ec6977e469765c18d3dd3185, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerPortalClone
-  playerVisualBox: {fileID: 0}
+  playerVisualBox: {fileID: 5447676811550792849, guid: 18015dfd8bf44e346a5ea088c7281168, type: 3}
   activationDistance: 1.5
 --- !u!1 &410087039
 GameObject:
